@@ -26,10 +26,7 @@ public class Main {
 		System.out.println("INICIANDO...");
 
 		try {
-			// Token de Teste:
-			// "561547488:AAGD6Lm2Ny5RPSSMlGmveMPIXmSZtyCCXK8"
-			
-			token = "561547488:AAGD6Lm2Ny5RPSSMlGmveMPIXmSZtyCCXK8";
+			token = "COLOCAR AQUI O TOKEN";
 			log_integracao = "Teste...";
 			
 			//token = args[0];
